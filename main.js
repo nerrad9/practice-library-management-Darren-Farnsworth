@@ -91,3 +91,5 @@ for (item of [bGame, book, dvd, mag]){
     if (Math.random()>=0.5){item.checkOut()}
     item.printDetails()
 }
+
+console.log("testing")
